@@ -11,15 +11,15 @@ I'm interested in **artificial intelligence, machine learning, and algorithms**,
 
 | Project | Description | Tech | Role |
 |---|---|---|---|
-| [20 Minutes Till Dawn](link) | A survival shooter game with persistent player data stored in a database | Java, MongoDB | Solo |
-| [Rogue](link) | A roguelike game with [e.g. procedural dungeons, enemies, items: fill in] | C | Solo |
-| [Stardew Valley](link) | A farming-simulation game with [e.g. farming, inventory, NPCs: fill in] and database-backed game data | Java, MongoDB | Team of [N] |
-| [LLM Bottleneck Analysis](link) | Benchmarked LLM inference on consumer hardware to find where the performance bottleneck lies. Our results pointed to **memory bandwidth** as the main limiting factor. | [tools / language: fill in] | Team of 2 |
+| [20 Minutes Till Dawn]([link](https://github.com/kiancj/Graphic/tree/main)) | A survival shooter game with persistent player data stored in a database | Java, MongoDB | Solo |
+| [Rogue]([link](https://github.com/FundamentalOfProgramming-SUT-2024/fop2024-project-kiancj)) | A roguelike game with [e.g. procedural dungeons, enemies, items: fill in] | C | Solo |
+| [Stardew Valley]([link](https://github.com/advanced-programming-sut-2025/advanced-programming-phase-1-group-60)) | A farming-simulation game with [e.g. farming, inventory, NPCs: fill in] and database-backed game data | Java, MongoDB | Team of 4 |
+| [LLM Bottleneck Analysis](link) | Benchmarked LLM inference on consumer hardware to find where the performance bottleneck lies. Our results pointed to **memory bandwidth** as the main limiting factor. | [tools / language: Cuda , C++ , Python] | Team of 4|
 
-**About the LLM project:** the code and benchmark infrastructure were written by my teammate [Name](github-link). My contribution was analyzing the collected benchmark data and writing the final report for our supervising professor.
+**About the LLM project:** the code and benchmark infrastructure were written by my teammate [Matin Fadavi]([github-link](https://github.com/MatinFadavi0/llm-hardware-bottleneck-analysis)). My contribution was analyzing the collected benchmark data and writing the final report for our supervising professor.
 
 ## 🧰 Skills
-**Languages:** Java, C, C++
+**Languages:** Java, C, C++ , Python
 **Databases:** MongoDB
 **Areas:** Data structures & algorithms, game development, performance benchmarking, data analysis
 **Tools:** Git, GitHub
@@ -29,6 +29,4 @@ I'm interested in **artificial intelligence, machine learning, and algorithms**,
 **Relevant coursework:** Data Structures & Algorithms (C++), Discrete Mathematics, Advanced Programming, Computer Architecture, Linear Algebra, Probability & Statistics, Differential Equations, Digital Systems Design
 
 ## 📫 Contact
-- Email: [your email]
-- LinkedIn: [link]
-- CV: [link]
+- Email: kianghanbari5@gmail.com
